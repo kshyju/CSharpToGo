@@ -4,7 +4,6 @@ C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runti
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
-C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
 C:\Dev\OSS\CSharpToGo\csharp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
